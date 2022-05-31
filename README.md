@@ -1,4 +1,5 @@
-### Hi there 👋
+### Hi there 👋 im saradhi
+Aspiring Full-Stack-Web Developer & an MCA graduate | Learning MERN Stack at @Masai School.
 
 <!--
 **Saradhii/saradhii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
