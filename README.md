@@ -1,4 +1,4 @@
-Hi 👋 My name is Saradhi
+Hi 👋, I'm Saradhi
 =============================
 
 Aspiring Full-Stack-Web Developer | Learning MERN Stack at @Masai School.
