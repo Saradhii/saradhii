@@ -7,9 +7,9 @@ Hi there., Im saradhi an Tech enthusiast and i love to build websites that are r
 
 * 🌍  I'm from Rajahmundry , Andra pradesh.
 
-* 💻  Find my projects here at [https://github.com/Saradhii?tab=repositories](https://github.com/Saradhii?tab=repositories)
+* 💻  Find my projects here at [Projects](https://github.com/Saradhii?tab=repositories)
 
-* 📄  Know about my experiences [https://drive.google.com/file/d/1sw8Zr0-XVtSn6Yxp-M25IfaTKazHHpH1/view?usp=sharing](https://drive.google.com/file/d/1sw8Zr0-XVtSn6Yxp-M25IfaTKazHHpH1/view?usp=sharing)
+* 📄  Know about my experiences [Resume](https://drive.google.com/file/d/1sw8Zr0-XVtSn6Yxp-M25IfaTKazHHpH1/view?usp=sharing)
 
 * 📗  Visit my [Portfolio](https://saradhi.netlify.app/) for more details.
 
