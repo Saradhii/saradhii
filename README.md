@@ -1,12 +1,18 @@
 Hi 👋, I'm Saradhi
 =============================
 
-Aspiring Full-Stack-Web Developer | Learning MERN Stack at @Masai School.
+Aspiring Full-Stack-Web Developer | MCA Graduate
 
-Hi there., Im saradhi currently an MCA graduate and a MERN Stack Developer who graduated from MASAI SCHOOL. I have extensive experience in developing and deploying websites utilizing various open-source packages such as NPM.
+Hi there., Im saradhi an Tech enthusiast and i love to build websites that are responsive and functional. As a passionate learner who's always willing to learn and work across newer technologies.Looking forward to perform my skills in a challenging work environment.
 
 * 🌍  I'm from Rajahmundry , Andra pradesh.
+
+* 💻  Find my projects here at [https://github.com/Saradhii?tab=repositories](https://github.com/Saradhii?tab=repositories)
+
+* 📄  Know about my experiences [https://drive.google.com/file/d/1sw8Zr0-XVtSn6Yxp-M25IfaTKazHHpH1/view?usp=sharing](https://drive.google.com/file/d/1sw8Zr0-XVtSn6Yxp-M25IfaTKazHHpH1/view?usp=sharing)
+
 * 📗  Visit my [Portfolio](https://saradhi.netlify.app/) for more details.
+
 * ✉️  You can contact me at [saradhi8142385201@gmail.com](mailto:saradhi8142385201@gmail.com)
 
 
