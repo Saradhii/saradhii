@@ -1,4 +1,4 @@
-Hi 👋 I'm Saradhi
+Hi 👋, I'm Saradhi
 =============================
 
 Aspiring Full-Stack-Web Developer | MCA Graduate
