@@ -47,13 +47,5 @@ Hi there., Im saradhi an Tech enthusiast and i love to build websites that are r
 ---
 [![](https://visitcount.itsvg.in/api?id=saradhii&icon=0&color=0)](https://visitcount.itsvg.in)
 
----
-<div align="center">
-	<br>
-	<a href="https://github.com/sindresorhus/css-in-readme-like-wat/blame/main/header.svg">
-		<img src="header.svg" width="800" height="400" alt="Click to see the source">
-	</a>
-	<br>
-</div>
 
 
