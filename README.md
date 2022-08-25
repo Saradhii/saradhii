@@ -38,7 +38,7 @@ Hi there., Im saradhi an Tech enthusiast and i love to build websites that are r
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://www.netlify.com/" target="_blank" rel="noreferrer"><img src="https://www.svgrepo.com/show/331495/netlify.svg" width="36" height="36" alt="netlyfy" /></a> 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://jwt.io/" target="_blank" rel="noreferrer"><img src="https://www.svgrepo.com/show/306280/jsonwebtokens.svg" width="36" height="36" alt="JWT" /></a> 
+<a href="https://jwt.io/" target="_blank" rel="noreferrer"><img color="white" src="https://www.svgrepo.com/show/306280/jsonwebtokens.svg" width="36" height="36" alt="JWT" /></a> 
 </div>
 <br><br><br>
 
