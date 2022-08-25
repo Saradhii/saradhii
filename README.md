@@ -42,19 +42,19 @@ Hi there., Im saradhi an Tech enthusiast and i love to build websites that are r
 ## 🌐 Socials
 
 
-<p align="left">
+<p align="center">
 <a href="https://www.linkedin.com/in/durga-vijaya-saradhi-mopada-327bb01b6/" target="_blank" rel="noreferrer">
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/LinkedIn_icon_circle.svg/2048px-LinkedIn_icon_circle.svg.png" width="36" height="36" alt="Linked In" />
 </a>
-
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://medium.com/@saradhi8142385201" target="_blank" rel="noreferrer">
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Medium_logo_Monogram.svg/1200px-Medium_logo_Monogram.svg.png" width="36" height="36" alt="Medium"/>
 </a>
-
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://stackoverflow.com/users" target="_blank" rel="noreferrer">
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Stack_Overflow_icon.svg/768px-Stack_Overflow_icon.svg.png" width="36" height="36" alt="so" />
 </a>
-
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://twitter.com/SaradhiVj" target="_blank" rel="noreferrer">
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Twitter-logo.svg/2491px-Twitter-logo.svg.png" width="36" height="30" alt="twitter" />
 </a>
@@ -63,7 +63,7 @@ Hi there., Im saradhi an Tech enthusiast and i love to build websites that are r
 
 
 <br><br>
-<b>My GitHub Stats</b>
+## 📝 GitHub Stats
 
 <div>
 <img height="200px"  align="right" src="https://www.crio.do/static/e986e6586b9caea329fb7659195ac856/55ae8/Hero.png"/> 
