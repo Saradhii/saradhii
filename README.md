@@ -50,7 +50,7 @@ Hi there., Im saradhi an Tech enthusiast and i love to build websites that are r
 
 <a href="http://www.github.com/saradhii"><img width="470px" src="https://github-readme-stats.vercel.app/api?username=saradhii&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=0D1117&hide_border=true&show_icons=true" alt="Saradhi GitHub stats" /></a>
 <img height="250px" width="200px" align="right" src="https://www.crio.do/static/ef9b3bc8e80b6a86c0214f2f2153c865/3be30/Mission.png"/> 
-<a href="http://www.github.com/saradhii"><img width="626px" height="270px" src="https://activity-graph.herokuapp.com/graph?username=saradhii&bg_color=0D1117&color=ffffff&line=0891b2&point=ffffff&area_color=000000&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
+<a href="http://www.github.com/saradhii"><img width="627px" height="270px" src="https://activity-graph.herokuapp.com/graph?username=saradhii&bg_color=0D1117&color=ffffff&line=0891b2&point=ffffff&area_color=000000&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
 
 
 
