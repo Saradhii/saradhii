@@ -45,9 +45,10 @@ Hi there., Im saradhi an Tech enthusiast and i love to build websites that are r
 
 <a href="http://www.github.com/saradhii"><img src="https://activity-graph.herokuapp.com/graph?username=saradhii&bg_color=000000&color=ffffff&line=0891b2&point=ffffff&area_color=000000&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
 
+<img height="200px"  align="right" src="https://www.crio.do/resources/assets/onboard/What3.png"/> 
 
----
 [![](https://visitcount.itsvg.in/api?id=saradhii&icon=0&color=0)](https://visitcount.itsvg.in)
+<img height="200px" width="400px" align="right" src="https://tcrf.net/images/thumb/c/cc/WWSME3Ty.gif/300px-WWSME3Ty.gif"/>
 
 
 
