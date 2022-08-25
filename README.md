@@ -34,9 +34,14 @@ Hi there., Im saradhi an Tech enthusiast and i love to build websites that are r
 <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="Typescript" /></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://mui.com/" target="_blank" rel="noreferrer"><img src="https://mui.com/static/logo.png" width="36" height="36" alt="MongoDB" /></a> 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://jwt.io/" target="_blank" rel="noreferrer"><img src="https://w7.pngwing.com/pngs/353/839/png-transparent-jwt-hd-logo.png" width="36" height="36" alt="JWT" /></a> 
+<a href="https://vercel.com/" target="_blank" rel="noreferrer"><img src="https://www.svgrepo.com/show/327408/logo-vercel.svg" width="36" height="36" alt="vercel" /></a> 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://www.netlify.com/" target="_blank" rel="noreferrer"><img src="https://www.svgrepo.com/show/331495/netlify.svg" width="36" height="36" alt="netlyfy" /></a> 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://jwt.io/" target="_blank" rel="noreferrer"><img src="https://www.svgrepo.com/show/306280/jsonwebtokens.svg" width="36" height="36" alt="JWT" /></a> 
 </div>
 <br><br><br>
+
 
 ## 🌐 Socials
 <br>
