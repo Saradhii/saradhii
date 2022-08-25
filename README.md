@@ -33,8 +33,9 @@ Hi there., Im saradhi an Tech enthusiast and i love to build websites that are r
 <a href="https://nextjs.org/" target="_blank" rel="noreferrer"><img src="https://ui-lib.com/blog/wp-content/uploads/2021/12/nextjs-boilerplate-logo.png" width="36" height="36" alt="MongoDB" /></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="Typescript" /></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://mui.com/" target="_blank" rel="noreferrer"><img src="https://mui.com/static/logo.png" width="36" height="36" alt="MongoDB" /></a> 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://jwt.io/" target="_blank" rel="noreferrer"><img src="https://w7.pngwing.com/pngs/353/839/png-transparent-jwt-hd-logo.png" width="36" height="36" alt="JWT" /></a> 
 </div>
-
 <br><br><br>
 
 ## 🌐 Socials
