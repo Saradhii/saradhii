@@ -17,9 +17,7 @@ Hi there., Im saradhi an Tech enthusiast and i love to build websites that are r
 
 * ✉️  You can contact me at [saradhi8142385201@gmail.com](mailto:saradhi8142385201@gmail.com)
 
-
-
-# 💻 Skills
+## 💻 Skills
 <img height="200px"  align="left" src="https://www.crio.do/resources/assets/onboard/What3.png"/> 
 <div align="left">  
 <br><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="Javascript" /></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
