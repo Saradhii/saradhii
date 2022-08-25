@@ -38,7 +38,7 @@ Hi there., Im saradhi an Tech enthusiast and i love to build websites that are r
 <br><br><br>
 
 ## 🌐 Socials
-
+<br>
 
 <p align="center">
 <a href="https://www.linkedin.com/in/durga-vijaya-saradhi-mopada-327bb01b6/" target="_blank" rel="noreferrer">
@@ -60,7 +60,7 @@ Hi there., Im saradhi an Tech enthusiast and i love to build websites that are r
 </p>
 
 
-<br><br>
+<br>
 ## 📝 GitHub Stats
 
 <div>
