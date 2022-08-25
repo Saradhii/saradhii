@@ -34,11 +34,11 @@ Hi there., Im saradhi an Tech enthusiast and i love to build websites that are r
 <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="Typescript" /></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://mui.com/" target="_blank" rel="noreferrer"><img src="https://mui.com/static/logo.png" width="36" height="36" alt="MongoDB" /></a> 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://vercel.com/" target="_blank" rel="noreferrer"><img src="https://www.svgrepo.com/show/327408/logo-vercel.svg" width="36" height="36" alt="vercel" /></a> 
+<a href="https://redis.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" width="36" height="36" alt="vercel" /></a> 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://www.netlify.com/" target="_blank" rel="noreferrer"><img src="https://www.svgrepo.com/show/331495/netlify.svg" width="36" height="36" alt="netlyfy" /></a> 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://jwt.io/" target="_blank" rel="noreferrer"><img color="white" src="https://www.svgrepo.com/show/306280/jsonwebtokens.svg" width="36" height="36" alt="JWT" /></a> 
+<a href="https://www.heroku.com/" target="_blank" rel="noreferrer"><img color="white" src="https://www.svgrepo.com/show/349404/heroku.svg" width="36" height="36" alt="JWT" /></a> 
 </div>
 <br><br><br>
 
