@@ -67,9 +67,12 @@ Hi there., Im saradhi an Tech enthusiast and i love to build websites that are r
 <img height="200px"  align="right" src="https://www.crio.do/static/e986e6586b9caea329fb7659195ac856/55ae8/Hero.png"/> 
 <a href="http://www.github.com/saradhii"><img align="left" alt="Saradhi GitHub stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saradhii&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
 
-<br><br><a href="http://www.github.com/saradhii"><img align="left" width="470px" src="https://github-readme-stats.vercel.app/api?username=saradhii&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=0D1117&hide_border=true&show_icons=true" alt="Saradhi GitHub stats" /></a>
-<img height="250px" width="200px" align="right" src="https://www.crio.do/static/ef9b3bc8e80b6a86c0214f2f2153c865/3be30/Mission.png"/> 
-<a href="http://www.github.com/saradhii"><img width="626px" height="270px" src="https://activity-graph.herokuapp.com/graph?username=saradhii&bg_color=0D1117&color=ffffff&line=0891b2&point=ffffff&area_color=000000&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
+<br><br>
+<img align="right" height="220px" width="200px" src="https://www.crio.do/static/ef9b3bc8e80b6a86c0214f2f2153c865/3be30/Mission.png"/> 
+<a href="http://www.github.com/saradhii"><img align="left" width="470px" src="https://github-readme-stats.vercel.app/api?username=saradhii&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=0D1117&hide_border=true&show_icons=true" alt="Saradhi GitHub stats"/></a>
+
+<br><br>
+<a href="http://www.github.com/saradhii"><img src="https://activity-graph.herokuapp.com/graph?username=saradhii&bg_color=0D1117&color=ffffff&line=0891b2&point=ffffff&area_color=000000&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
 
 
 
