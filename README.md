@@ -7,15 +7,16 @@ Hi there., Im saradhi an Tech enthusiast and i love to build websites that are r
 
 <img height="200px" align="right" src="https://www.crio.do/resources/assets/onboard/What1.png"/> 
 
-* 🌍  I'm from Rajahmundry , Andra pradesh.
+<img src="https://www.svgrepo.com/show/131971/location.svg" width="18" height="18" alt="location" />&nbsp;&nbsp;&nbsp;I'm from Rajahmundry , Andra pradesh. 
 
-* 💻  Find my projects here at [Projects](https://github.com/Saradhii?tab=repositories)
 
-* 📄  Know about my experiences [Resume](https://drive.google.com/file/d/1sw8Zr0-XVtSn6Yxp-M25IfaTKazHHpH1/view?usp=sharing)
+<img src="https://www.svgrepo.com/show/256/laptop.svg" width="18" height="18" alt=""/>&nbsp;&nbsp;&nbsp;Find my projects here at [Projects](https://github.com/Saradhii?tab=repositories)
 
-* 📗  Visit my [Portfolio](https://saradhi.netlify.app/) for more details.
+<img src="https://www.svgrepo.com/show/148389/paper.svg" width="18" height="18" alt=""/>&nbsp;&nbsp;&nbsp;Know about my experiences [Resume](https://drive.google.com/file/d/1sw8Zr0-XVtSn6Yxp-M25IfaTKazHHpH1/view?usp=sharing)
 
-* ✉️  You can contact me at [saradhi8142385201@gmail.com](mailto:saradhi8142385201@gmail.com)
+<img src="https://www.svgrepo.com/show/302570/website.svg" width="18" height="18" alt=""/>&nbsp;&nbsp;&nbsp;Visit my [Portfolio](https://saradhi.netlify.app/) for more details.
+
+<img src="https://www.svgrepo.com/show/226318/contact.svg" width="18" height="18" alt=""/>&nbsp;&nbsp;&nbsp;You can contact me at [saradhi8142385201@gmail.com](mailto:saradhi8142385201@gmail.com)
 
 ## 💻 Skills
 <img height="200px"  align="left" src="https://www.crio.do/resources/assets/onboard/What3.png"/> 
@@ -38,7 +39,7 @@ Hi there., Im saradhi an Tech enthusiast and i love to build websites that are r
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://www.netlify.com/" target="_blank" rel="noreferrer"><img src="https://www.svgrepo.com/show/331495/netlify.svg" width="36" height="36" alt="netlyfy" /></a> 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://www.heroku.com/" target="_blank" rel="noreferrer"><img color="white" src="https://www.svgrepo.com/show/349404/heroku.svg" width="36" height="36" alt="JWT" /></a> 
+<a href="https://www.heroku.com/" target="_blank" rel="noreferrer"><img src="https://www.svgrepo.com/show/349404/heroku.svg" width="36" height="36" alt="heroku"/></a> 
 </div>
 <br><br><br>
 
