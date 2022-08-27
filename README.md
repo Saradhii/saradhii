@@ -56,7 +56,7 @@ Hi there., Im saradhi an Tech enthusiast and i love to build websites that are r
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Medium_logo_Monogram.svg/1200px-Medium_logo_Monogram.svg.png" width="36" height="36" alt="Medium"/>
 </a>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://stackoverflow.com/users" target="_blank" rel="noreferrer">
+<a href="https://stackoverflow.com/users/19857635/saradhi" target="_blank" rel="noreferrer">
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Stack_Overflow_icon.svg/768px-Stack_Overflow_icon.svg.png" width="36" height="36" alt="so" />
 </a>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
