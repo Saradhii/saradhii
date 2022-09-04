@@ -81,7 +81,7 @@ Hi there., Im saradhi an Tech enthusiast and i love to build websites that are r
 </div>
 
 <br><br>
-<a href="http://www.github.com/saradhii"><img src="https://activity-graph.herokuapp.com/graph?username=saradhii&bg_color=0D1117&color=ffffff&line=0891b2&point=ffffff&area_color=000000&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
+<a href="http://www.github.com/saradhii"><img src="https://activity-graph.herokuapp.com/grap?username=saradhii&bg_color=0D1117&color=ffffff&line=0891b2&point=ffffff&area_color=000000&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
 
 
 
