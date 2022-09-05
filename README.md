@@ -44,7 +44,7 @@ Hi there., Im saradhi an Tech enthusiast and i love to build websites that are r
 <br><br><br>
 
 
-## 🌐 Social
+## 🌐 Socials
 <br>
 
 <p align="center">
