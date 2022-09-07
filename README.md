@@ -18,7 +18,7 @@ Hi there., Im saradhi an Tech enthusiast and i love to build websites that are r
 
 <img src="https://www.svgrepo.com/show/226318/contact.svg" width="18" height="18" alt=""/>&nbsp;&nbsp;&nbsp;You can contact me at [saradhi8142385201@gmail.com](mailto:saradhi8142385201@gmail.com)
 
-## 💻 Skills
+## 💻 Skill
 <img height="200px"  align="left" src="https://www.crio.do/resources/assets/onboard/What3.png"/> 
 <div align="left">  
 <br><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="Javascript" /></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
