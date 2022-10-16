@@ -1,6 +1,6 @@
 Hi 👋, I'm Saradhi
 =============================
-Associate software developer @Intoglo .,
+Associate software developer @Intoglo.
 
 Aspiring Full-Stack-Web Developer | MCA Graduate
 
