@@ -2,7 +2,6 @@ Hi 👋, I'm Saradhi
 =============================
 Associate software developer @Intoglo.
 
-
 Aspiring Full-Stack-Web Developer | MCA Graduate
 
 Hi there., Im saradhi an Tech enthusiast and i love to build websites that are responsive and functional. As a passionate learner who's always willing to learn and work across newer technologies.Looking forward to perform my skills in a challenging work environment.
