@@ -1,4 +1,4 @@
-Hi 👋, I'm Saradhi
+Hi, I'm Saradhi
 =============================
 Associate software developer @Intoglo.
 
