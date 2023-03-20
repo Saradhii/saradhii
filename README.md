@@ -1,6 +1,7 @@
 Hi, I'm Saradhi
 =============================
 Associate software developer @Intoglo.
+Intrested to Interested to collaborate in open source AI Projects. 
 
 <!-- Aspiring Full-Stack-Web Developer | MCA Graduate
 
