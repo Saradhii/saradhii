@@ -1,7 +1,7 @@
-Hi, I'm Saradhi
+<!-- Hi, I'm Saradhi -->
 =============================
-Associate software developer @Intoglo.
-Intrested to Interested to collaborate in open source AI Projects.
+<!-- Associate software developer @Intoglo.
+Intrested to Interested to collaborate in open source AI Projects. -->
 
 
 
@@ -10,7 +10,7 @@ Intrested to Interested to collaborate in open source AI Projects.
 
 Hi there., Im saradhi an Tech enthusiast and i love to build websites that are responsive and functional. As a passionate learner who's always willing to learn and work across newer technologies.Looking forward to perform my skills in a challenging work environment. -->
 
-<img height="200px" align="right" src="https://www.crio.do/resources/assets/onboard/What1.png"/> 
+<!-- <img height="200px" align="right" src="https://www.crio.do/resources/assets/onboard/What1.png"/> 
 
 <img src="https://www.svgrepo.com/show/131971/location.svg" width="18" height="18" alt="location" />&nbsp;&nbsp;&nbsp;I'm from Rajahmundry , Andra pradesh. 
 
