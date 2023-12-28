@@ -1,7 +1,6 @@
 <!-- Hi, I'm Saradhi -->
 <!-- ============================= -->
 ⚙️__Software Developer  </br>
-Passionate about learning about space and computers. </br>
 
 
 
