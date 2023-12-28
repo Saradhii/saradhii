@@ -1,6 +1,8 @@
 <!-- Hi, I'm Saradhi -->
 <!-- ============================= -->
-⚙️__Software Developer
+⚙️__Software Developer 
+Passionate about learning about space and computers. 
+Email : saradhi8142385201@gmail.com
 <!-- Associate software developer @Intoglo.
 Intrested to Interested to collaborate in open source AI Projects. -->
 
