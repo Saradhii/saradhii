@@ -1,7 +1,8 @@
 <!-- Hi, I'm Saradhi -->
 <!-- ============================= -->
-<a href="https://www.flaticon.com/free-icons/brain" title="brain icons">Brain icons created by Freepik - Flaticon</a>
+<img src="https://www.svgrepo.com/show/131971/location.svg" width="18" height="18" alt="location" />
 ⚙️__Software Developer  </br>
+![image](https://github.com/Saradhii/saradhii/assets/99667252/672c1c4e-63ee-4f79-92bb-ae93c2726da5)
 
 
 
