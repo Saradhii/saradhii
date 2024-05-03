@@ -1,8 +1,7 @@
 <!-- Hi, I'm Saradhi -->
 <!-- ============================= -->
 
-<img height="50px" align="left" src="https://www.svgrepo.com/show/75969/microchip.svg"/>
-__Software Developer  </br>
+<img height="31px" align="left" src="https://www.svgrepo.com/show/75969/microchip.svg"/>Software Developer  </br>
 
 
 
