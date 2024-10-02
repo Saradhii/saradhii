@@ -1,7 +1,8 @@
 <!-- Hi, I'm Saradhi -->
 <!-- ============================= -->
+<img height="30px" src="https://www.svgrepo.com/show/354478/typescript-icon.svg"/>
 
-<img height="30px" src="https://www.svgrepo.com/show/452045/js.svg"/> 
+<!--<img height="30px" src="https://www.svgrepo.com/show/452045/js.svg"/> 
 
 <!--<img height="30px" src="https://www.svgrepo.com/show/452091/python.svg"/>
 
